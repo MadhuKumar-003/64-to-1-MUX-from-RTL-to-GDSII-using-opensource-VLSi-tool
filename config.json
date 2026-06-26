@@ -1,0 +1,16 @@
+{
+    "DESIGN_NAME": "mux64_1",
+    "VERILOG_FILES": [
+        "dir::src/mux.v"
+    ],
+    "CLOCK_PERIOD": 10.0,
+    "CLOCK_PORT": null,
+    "CLOCK_NET": null,
+    
+    "FP_CORE_UTIL": 40,
+    "PL_TARGET_DENSITY": 0.45,
+    
+    "SYNTH_MAX_FANOUT": 6,
+    "SYNTH_BUFFERING": true,
+    "SYNTH_SIZING": true
+}
